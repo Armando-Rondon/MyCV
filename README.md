@@ -1,6 +1,6 @@
 # MyCv
 Me llamo Armando Rondón Hernández y tengo 18 años 
-Vivo en Mendillorri y estudio 1ºDAM en Cuatrovientos 
+Vivo en Mendillorri y estudio 1ºDAM en Cuatrovientos.
 ![ITC Mendillorri](https://fotos02.noticiasdenavarra.com/2020/07/22/690x278/mendillorri-1.jpg)
 
 
